@@ -1,6 +1,6 @@
 ## artisanship
 
-A docker container to run an Laravel application. This is not for production use
+A docker container to run a Laravel application. This is not for production use
 
 ## Usage
 
